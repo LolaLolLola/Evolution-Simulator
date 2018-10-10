@@ -1,0 +1,8 @@
+﻿Bugs:
+
+Implement:
+	AddVecParts
+	missing Bug functions sda
+
+Question:
+	GeneratorController.DisableTimeFuction() ???
