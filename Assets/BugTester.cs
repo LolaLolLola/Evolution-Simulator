@@ -7,7 +7,7 @@ using UnityEngine;
 
 #endregion
 
-namespace Assets._Scripts
+namespace Assets._Scriptsrr
 {
     public class BugTester : MonoBehaviour
     {
