@@ -3,6 +3,7 @@
 Implement:
 	AddVecParts
 	missing Bug functions sda
+	Lolatest
 
 Question:
 	GeneratorController.DisableTimeFuction() ???
